@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureServices.Shared", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureServices.Api", "PictureServices.Api\PictureServices.Api.csproj", "{B25FC3C4-D306-4276-AD30-C1DADBA05869}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoClient", "DemoClient\DemoClient.csproj", "{829A65BA-F191-46E5-9293-64E01865685B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{B25FC3C4-D306-4276-AD30-C1DADBA05869}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B25FC3C4-D306-4276-AD30-C1DADBA05869}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B25FC3C4-D306-4276-AD30-C1DADBA05869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{829A65BA-F191-46E5-9293-64E01865685B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{829A65BA-F191-46E5-9293-64E01865685B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{829A65BA-F191-46E5-9293-64E01865685B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{829A65BA-F191-46E5-9293-64E01865685B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
